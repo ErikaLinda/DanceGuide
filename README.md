@@ -1,1 +1,3 @@
-# DanceGuide
+# Dance Guide
+
+Dance  Guide was a project developed by myself and Guinandra Jatikusumo for Introduction to Computer Science course taught by Prof. Jerome White at New York University Abu Dhabi in Fall 2014. It was the final project for my first ever porgramming class. Our idea was to create a tool that would show the user the basic footwork for a few popular social dances. We accomplished that as best we could given our programming skills at the time. We used Python and Processing, so in order to run the file one must have Processing installed along with the Python mode for it. Unfortunately, the original process documentation has been lost.
